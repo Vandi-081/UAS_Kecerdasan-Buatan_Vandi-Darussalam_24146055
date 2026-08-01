@@ -49,18 +49,14 @@ Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjad
 ---
 
 ## Visualisasi Evolusi
-![Fitness Evolution](fitness_evolution.png)
+![Fitness Evolution]
 
-Grafik di atas menunjukkan peningkatan fitness maksimum dan rata-rata setiap generasi.
+Grafik menunjukkan peningkatan fitness maksimum dan rata-rata setiap generasi.
 
 ---
 
 ## Cara Menjalankan Program
 1. Buka Google Colab.
-2. Upload file `UAS_GA_Scheduling.ipynb`.
+2. Upload file `UAS_Kecerdasan_Buatan.ipynb`.
 3. Jalankan semua sel secara berurutan.
 4. Hasil jadwal, fitness, dan grafik akan muncul.
-
----
-
-## Struktur Repository
