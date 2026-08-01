@@ -1,0 +1,1 @@
+# UAS_Kecerdasan-Buatan_Vandi-Darussalam_24146055
