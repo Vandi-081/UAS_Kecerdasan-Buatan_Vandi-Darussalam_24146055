@@ -1,4 +1,4 @@
-# 🧬 Sistem Penjadwalan Mata Kuliah dengan Algoritma Genetika
+# Sistem Penjadwalan Mata Kuliah dengan Algoritma Genetika
 
 ## Identitas
 - **Nama Lengkap:** Vandi Darussalam
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjadwalan otomatis 24 mata kuliah dengan meminimalkan konflik.  
 **Konflik yang dievaluasi:**
 1. Ruang yang sama pada slot yang sama.
@@ -18,7 +18,7 @@ Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjad
 
 ---
 
-## 📊 Data yang Digunakan
+## Data yang Digunakan
 | Komponen | Jumlah / Nilai |
 |----------|---------------|
 | Mata Kuliah | 24 |
@@ -28,7 +28,7 @@ Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjad
 
 ---
 
-## ⚙️ Parameter Algoritma Genetika
+## Parameter Algoritma Genetika
 | Parameter | Nilai |
 |-----------|-------|
 | Populasi | 60 |
@@ -40,7 +40,7 @@ Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjad
 
 ---
 
-## 🏆 Hasil yang Dicapai
+## Hasil yang Dicapai
 | Metrik | Nilai |
 |--------|-------|
 | **Fitness Terbaik** | 33.33 |
@@ -48,14 +48,14 @@ Program ini menerapkan **Algoritma Genetika** untuk menyelesaikan masalah penjad
 
 ---
 
-## 📈 Visualisasi Evolusi
+## Visualisasi Evolusi
 ![Fitness Evolution](fitness_evolution.png)
 
 Grafik di atas menunjukkan peningkatan fitness maksimum dan rata-rata setiap generasi.
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 1. Buka Google Colab.
 2. Upload file `UAS_GA_Scheduling.ipynb`.
 3. Jalankan semua sel secara berurutan.
@@ -63,4 +63,4 @@ Grafik di atas menunjukkan peningkatan fitness maksimum dan rata-rata setiap gen
 
 ---
 
-## 📁 Struktur Repository
+## Struktur Repository
